@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8c3602a7-ebcc-fb72-84af-df25e708dd52
 ---
@@ -44,28 +46,6 @@ None.
 ### Offered
 
 Every spring semester.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A large classroom for 100 students with tiered seating and several blackboards.]({{< resource_file 95130fdb-68d3-2fcd-670b-d20d80d07bf0 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures were held in this lecture hall with tiered seating, several blackboards, and a projector.
-    
-*   ![A classroom with several rows of student desks.]({{< resource_file 274b4168-2a63-d464-e0d1-a55898146713 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations were optional for most students, and took place in this classroom.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

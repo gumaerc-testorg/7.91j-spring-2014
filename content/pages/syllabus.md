@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fa95efc3-d3fe-cba9-9745-73504676f128
 ---
@@ -35,29 +37,29 @@ There are different prerequisites for the various versions of the course. See th
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 DEPARTMENT
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 COURSE  
 NUMBER
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 LEVEL
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 PREREQUISITES
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 RECITATIONS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 ASSIGNMENTS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 PROJECT
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 GRADING
 {{< thclose >}}
 
@@ -80,7 +82,7 @@ GRADING
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Biology
 {{< tdclose >}}
 {{< tdopen >}}
@@ -149,7 +151,7 @@ Yes
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Biological Engineering
 {{< tdclose >}}
 {{< tdopen >}}
@@ -218,7 +220,7 @@ Yes
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Electrical Engineering and Computer Science
 {{< tdclose >}}
 {{< tdopen >}}

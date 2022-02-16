@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: RNA-sequence Analysis: Expression, Isoforms'
 uid: 9dfaa482-1f2a-5dfa-5c08-fe73af1d4b1b
 video_files:
   archive_url: http://archive.org/download/MIT7.91JS14/MIT7_91JS14_lec08_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-91j-foundations-of-computational-and-systems-biology-spring-2014/4c4cb76b36a65e57ac1d2cac6eede795_MniYgsZSp30.vtt
+  video_captions_file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/4c4cb76b36a65e57ac1d2cac6eede795_MniYgsZSp30.vtt
   video_thumbnail_file: https://img.youtube.com/vi/MniYgsZSp30/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-91j-foundations-of-computational-and-systems-biology-spring-2014/47d8a2550c1745747f84c2c5680aed3c_MniYgsZSp30.pdf
+  video_transcript_file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/47d8a2550c1745747f84c2c5680aed3c_MniYgsZSp30.pdf
 video_metadata:
   youtube_id: MniYgsZSp30
 ---

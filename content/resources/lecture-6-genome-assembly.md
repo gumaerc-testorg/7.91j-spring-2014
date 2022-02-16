@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: Genome Assembly'
 uid: 67d48b4e-2e1b-5db8-96c0-764d02f5bda0
 video_files:
   archive_url: http://archive.org/download/MIT7.91JS14/MIT7_91JS14_lec06_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-91j-foundations-of-computational-and-systems-biology-spring-2014/049685492f4a5775b35a37ca9ed047e2_ZYW2AeDE6wU.vtt
+  video_captions_file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/049685492f4a5775b35a37ca9ed047e2_ZYW2AeDE6wU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ZYW2AeDE6wU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-91j-foundations-of-computational-and-systems-biology-spring-2014/18b601767baa48ff7984697ee8045339_ZYW2AeDE6wU.pdf
+  video_transcript_file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/18b601767baa48ff7984697ee8045339_ZYW2AeDE6wU.pdf
 video_metadata:
   youtube_id: ZYW2AeDE6wU
 ---

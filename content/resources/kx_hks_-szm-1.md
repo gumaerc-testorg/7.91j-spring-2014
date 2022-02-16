@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-91j-foundations-of-computational-and-systems-biology-spring-2014/8626c7d6dfa0d91fca51d5b19c8462b2_kx_Hks_-SZM.pdf
+file: /media/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/8626c7d6dfa0d91fca51d5b19c8462b2_kx_Hks_-SZM.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 8626c7d6-dfa0-d91f-ca51-d5b19c8462b2
