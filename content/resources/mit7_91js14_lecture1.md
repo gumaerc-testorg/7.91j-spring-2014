@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: e46d1b6b-e6b2-fff3-aee2-1fc3b36646ba
 resourcetype: Document
 title: 'Lecture1: Foundations of Computational and Systems Biology'
 uid: cd0757e3-1d7e-05bd-9fae-6154f71ba12f

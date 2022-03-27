@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Global Alignment of Protein Sequences (NW, SW, PAM, BLOSUM)'
 uid: 3f056ef5-fe62-4658-df7f-57e2dbce0c15
 video_files:

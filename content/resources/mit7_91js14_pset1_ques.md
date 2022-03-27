@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 215564a7-c7bc-a140-74c5-d9096008982b
 resourcetype: Document
 title: Problem Set 1:Questions-Sequence search, global alignment, BLAST statistics
 uid: 79d76bd6-5651-d30b-985f-f0e0a26fd139

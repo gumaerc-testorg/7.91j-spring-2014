@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 11: RNA Secondary Structure \u2013 Biological Functions and Prediction"
 uid: 8eaf7445-0703-3b4e-f17c-045950330866
 video_files:

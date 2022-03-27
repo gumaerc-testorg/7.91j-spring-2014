@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: e46d1b6b-e6b2-fff3-aee2-1fc3b36646ba
 resourcetype: Document
 title: 'Lecture 16: Protein Interaction Networks'
 uid: 5ea46dd7-8900-dca6-66f2-0790f31d85a5

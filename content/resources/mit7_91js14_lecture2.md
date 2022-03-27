@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: e46d1b6b-e6b2-fff3-aee2-1fc3b36646ba
 resourcetype: Document
 title: 'Lecture2: Local Alignment (BLAST) and Statistics'
 uid: 82572f8d-7508-c4b8-6aa0-3c31879ed144

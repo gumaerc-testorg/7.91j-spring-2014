@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: e46d1b6b-e6b2-fff3-aee2-1fc3b36646ba
 resourcetype: Document
 title: 'Lecture 9: Modeling and Discovery of Sequence Motifs'
 uid: 5b2e2890-7ea0-3966-09fd-2cbccd2dd462

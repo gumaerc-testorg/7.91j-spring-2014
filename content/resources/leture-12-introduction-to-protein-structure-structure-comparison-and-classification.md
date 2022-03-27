@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Leture 12: Introduction to Protein Structure; Structure Comparison and Classification'
 uid: 0baf5c08-1fcd-02c0-9a07-bf670f4e710e
 video_files:

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Project
 parent_type: CourseSection
+parent_uid: 53ef1941-5287-4b4f-1e1e-3b94324eeb48
 resourcetype: Document
 title: Presentation Tips
 uid: 73921058-1c47-ea8e-629b-b79bcb2ff2a9

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 215564a7-c7bc-a140-74c5-d9096008982b
 resourcetype: Document
 title: Problem Set 5:Questions- Network Statistics, Chromatin Structure, Heritability,
   Association Testing

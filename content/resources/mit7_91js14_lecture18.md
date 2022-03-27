@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: e46d1b6b-e6b2-fff3-aee2-1fc3b36646ba
 resourcetype: Document
 title: 'Lecture 18: Analysis of Chromatin Structure'
 uid: c735f230-a3e4-b8b0-9d60-2422abf9664d

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: fa95efc3-d3fe-cba9-9745-73504676f128
 resourcetype: Image
 title: Agree.jpg
 uid: 5047e5cd-f575-d539-f025-3d7f71ba0ff6

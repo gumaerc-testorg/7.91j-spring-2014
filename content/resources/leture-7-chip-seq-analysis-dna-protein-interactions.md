@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Leture 7: ChIP-seq Analysis; DNA-protein Interactions'
 uid: 1f66ae49-7991-d30d-22f0-5cc1647622b3
 video_files:

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: e46d1b6b-e6b2-fff3-aee2-1fc3b36646ba
 resourcetype: Document
 title: 'Lecture 19: Discovering Quantitative Trait Loci (QTLs)'
 uid: 1c9822b1-ee7f-0767-1143-4cb3212e7f6a

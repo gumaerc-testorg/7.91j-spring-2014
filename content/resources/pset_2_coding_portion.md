@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 215564a7-c7bc-a140-74c5-d9096008982b
 resourcetype: Other
 title: pset_2_coding_portion.zip
 uid: e21d64c2-5ea9-bddb-3b0f-3f6fba5b3c57

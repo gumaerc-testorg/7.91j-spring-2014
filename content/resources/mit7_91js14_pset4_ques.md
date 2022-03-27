@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 215564a7-c7bc-a140-74c5-d9096008982b
 resourcetype: Document
 title: Problem Set 4:Questions- Bayesian Networks, Refining Protein Structures in
   PyRosetta, Mutual information of protein residues

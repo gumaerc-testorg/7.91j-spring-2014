@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: e46d1b6b-e6b2-fff3-aee2-1fc3b36646ba
 resourcetype: Document
 title: 'Lecture 12: Introduction to Protein Structure; Structure Comparison and Classification'
 uid: e41589e4-df27-f597-4d76-31183cf3962f
