@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbooks, assignments, exams, the research project
+  for graduate versions of the course, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: fa95efc3-d3fe-cba9-9745-73504676f128
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meetings Times
@@ -92,13 +97,13 @@ Biology
 Undergraduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -125,13 +130,13 @@ No
 Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -161,13 +166,13 @@ Biological Engineering
 Undergraduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -194,13 +199,13 @@ No
 Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -230,7 +235,7 @@ Electrical Engineering and Computer Science
 Undergraduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -239,7 +244,7 @@ Undergraduate
  
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Optional; review of lectures
@@ -263,7 +268,7 @@ No
 Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -272,7 +277,7 @@ Graduate
  
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Required; cover additional material related to artificial intelligence
@@ -299,7 +304,7 @@ HST.506
 Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -308,7 +313,7 @@ Graduate
  
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Optional; review of lectures
@@ -378,22 +383,22 @@ Gonick, Larry, and Woollcott Smith. _The Cartoon Guide to Statistics_. Paw Print
 Assignments
 -----------
 
-Five written or computer-based problem sets will be assigned. These are designed to promote deeper understanding of the principles and algorithms discussed in class and to provide hands-on experience with bioinformatics tools. The scripting language Python—which is widely used for bioinformatics and computational biology—will be used in the problem sets. More information is in the [Assignments]({{< baseurl >}}/pages/assignments) section.
+Five written or computer-based problem sets will be assigned. These are designed to promote deeper understanding of the principles and algorithms discussed in class and to provide hands-on experience with bioinformatics tools. The scripting language Python—which is widely used for bioinformatics and computational biology—will be used in the problem sets. More information is in the {{% resource_link 215564a7-c7bc-a140-74c5-d9096008982b "Assignments" %}} section.
 
 Exams
 -----
 
-There will be two 80–minute exams. The material covered on each exam is non-cumulative; consult the [Calendar]({{< baseurl >}}/pages/calendar) to see which topics were covered on each exam. There is no final exam.
+There will be two 80–minute exams. The material covered on each exam is non-cumulative; consult the {{% resource_link e0132a76-e6c0-080d-ab50-1bcf6182bed2 "Calendar" %}} to see which topics were covered on each exam. There is no final exam.
 
 Project
 -------
 
-Students in one of the graduate versions of this course will complete a computational biology research project. See the [table]({{< baseurl >}}/pages/syllabus#table) for clarification. The project is designed to give you practice in applying computational methods to contemporary problems in biology. Students design and carry out projects working in a group or by themselves. All students will provide online feedback (peer review) on the presentations. More information is in the [Project]({{< baseurl >}}/pages/project) section.
+Students in one of the graduate versions of this course will complete a computational biology research project. See the {{% resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "table" "#table" %}} for clarification. The project is designed to give you practice in applying computational methods to contemporary problems in biology. Students design and carry out projects working in a group or by themselves. All students will provide online feedback (peer review) on the presentations. More information is in the {{% resource_link 53ef1941-5287-4b4f-1e1e-3b94324eeb48 "Project" %}} section.
 
 {{< anchor "grade" >}}{{< /anchor >}}Grading
 --------------------------------------------
 
-The different versions of this course have different grading schemes. See the [table]({{< baseurl >}}/pages/syllabus#table) for clarification. An additional 1% extra credit may be awarded for exceptional class participation.
+The different versions of this course have different grading schemes. See the {{% resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "table" "#table" %}} for clarification. An additional 1% extra credit may be awarded for exceptional class participation.
 
 ### Grading Scheme 1
 

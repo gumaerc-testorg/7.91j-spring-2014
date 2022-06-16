@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture by Prof. Ernest Fraenkel is on protein interaction networks. He covers network models, including their structure and an analysis. He asks, "can we use networks to predict function?" He ends with a data integration example.
 
 **Instructor:** Prof. Ernest Fraenkel
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Prof. Burge discusses comparative genomics. He begins with a review of global alignment of protein sequences, then talks about Markov models, the Jukes-Cantor model, and Kimura models. He discusses types of selection: natural, negative, and positive.
 
 **Instructor:** Christopher Burge
+
+
+

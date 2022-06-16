@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Prof. Doug Lauffenburger delivers a guest lecture on the topic of logic modeling of cell signaling networks. He begins by giving a conceptual background of the subject, and then discusses an example involving hepatocyes (liver cells).
 
 **Instructor:** Prof. Doug Lauffenburger
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture by Prof. Ernest Fraenkel is about gene regulatory networks. He begins by finishing Lecture 14's discussion of protein-protein interactions.
 
 **Instructor:** Prof. Ernest Fraenkel
+
+
+

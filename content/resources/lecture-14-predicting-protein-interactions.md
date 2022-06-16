@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture is on predicting protein interactions. He discusses structural predictions of protein-protein interactions. He then talks about how measurements of protein-protein interactions are made and Bayes Net prediction of protein-protein interactions.
 
 **Instructor:** Prof. Ernest Fraenkel
+
+
+

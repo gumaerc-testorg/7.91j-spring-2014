@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture by Prof. David Gifford is on human genetics. He covers how scientists discover variation in the human genome. He discusses how to prioritize variants based on their importance. And then covers how to prove causation, not just correlation.
 
 **Instructor:** Prof. David Gifford
+
+
+

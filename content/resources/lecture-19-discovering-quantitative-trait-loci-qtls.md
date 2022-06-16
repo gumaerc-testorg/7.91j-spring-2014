@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture is guided by the question "Where is missing heritability found?" Prof. David Gifford discusses computational models that can predict phenotype from genotype. He then discusses how to discover and model quantitative trait loci.
 
 **Instructor:** Prof. David Gifford
+
+
+

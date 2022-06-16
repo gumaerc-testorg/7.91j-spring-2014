@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course, solutions,
+  and information on grading, late assignments, and collaboration on problem sets.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 215564a7-c7bc-a140-74c5-d9096008982b
+video_metadata:
+  youtube_id: null
 ---
 
 Five written or computer-based problem sets will be assigned. These are designed to promote deeper understanding of the principles and algorithms discussed in class and to provide hands-on experience with bioinformatics tools.
@@ -41,10 +45,10 @@ POINTS
 Sequence Search, Global Alignment, BLAST Statistics
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset1_ques)
+{{% resource_link 79d76bd6-5651-d30b-985f-f0e0a26fd139 "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset1_ans)
+{{% resource_link 84b556e2-f77a-9f5e-8537-dda71d0f3e3e "Solutions to Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 19
@@ -61,14 +65,14 @@ BWT, Library Complexity, RNA-seq, Genome Assembly, Motifs, Multiple Hypothesis T
 {{< tdopen >}}
 
 
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset2_ques)
+{{% resource_link 429b782e-48f7-9a33-a6ce-938e18f40d49 "Problem Set 2 (PDF)" %}}
 
-[Problem Set 2 Files (ZIP)]({{< baseurl >}}/resources/pset_2_coding_portion) (This ZIP file contains: 4 .py files, 1 .index file, and .3 txt files)
+{{% resource_link e21d64c2-5ea9-bddb-3b0f-3f6fba5b3c57 "Problem Set 2 Files (ZIP)" %}} (This ZIP file contains: 4 .py files, 1 .index file, and .3 txt files)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Problem Set 2 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit7_91js14_pset2_ans)
+{{% resource_link 1aaddb5e-a395-6411-aede-ac520b5b5f4a "Solutions to Problem Set 2 (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 31
@@ -85,14 +89,14 @@ Gibbs Sampler, RNA Secondary Structure, Protein Structure with PyRosetta, Connec
 {{< tdopen >}}
 
 
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset3_ques)
+{{% resource_link 48f8912c-a444-44f2-e2ea-05845d89d6b9 "Problem Set 3 (PDF)" %}}
 
-[Problem Set 3 Files (ZIP)]({{< baseurl >}}/resources/problem_set_3) (This ZIP file contains: 3 .py files, 3 .fa files, and .1 txt file)
+{{% resource_link 5b630b6d-e201-5aa2-770c-8f143c82cc6b "Problem Set 3 Files (ZIP)" %}} (This ZIP file contains: 3 .py files, 3 .fa files, and .1 txt file)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Problem Set 3 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit7_91js14_pset3_ans)
+{{% resource_link 5e4e88f6-7758-36fb-2a00-5efc079bedd3 "Solutions to Problem Set 3 (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 25
@@ -109,14 +113,14 @@ Bayesian Networks, Refining Protein Structures in PyRosetta, Mutual Information 
 {{< tdopen >}}
 
 
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset4_ques)
+{{% resource_link 6d52a178-00a4-be9e-2ae6-05c1c83d65ba "Problem Set 4 (PDF)" %}}
 
-[Problem Set 4 Files (ZIP)]({{< baseurl >}}/resources/problem_set_4) (This ZIP file contains: 3 .py files and 2 .fasta files)
+{{% resource_link 71d11e38-acd6-fa09-775f-2517afa761f5 "Problem Set 4 Files (ZIP)" %}} (This ZIP file contains: 3 .py files and 2 .fasta files)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset4_ans)
+{{% resource_link 1c3d6924-535a-d1a9-6120-884d5c6095da "Solutions to Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 21
@@ -133,14 +137,14 @@ Network Statistics, Chromatin Structure, Heritability, Association Testing
 {{< tdopen >}}
 
 
-[Problem Set 5 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit7_91js14_pset5_ques)
+{{% resource_link 2d2b431c-e6ad-f9cb-64c9-fa91768405ef "Problem Set 5 (PDF - 1.1MB)" %}}
 
 Problem Set 5 Files (ZIP)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset5_ans)
+{{% resource_link 560541b1-8a46-12b7-e19c-8e7f9a9c1a06 "Solutions to Problem Set 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 24

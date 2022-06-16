@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Prof. Gifford talks about two different ways to assemble a genome de novo. The first approach is overlap layout consensus assemblers, as exemplified by string graph assemblers. The second approach is de Bruijn graph-based assemblers.
 
 **Instructor:** Prof. David Gifford
+
+
+
