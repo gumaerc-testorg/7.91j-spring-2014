@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This section contains links to tools and web resources that visitors
+  may find helpful in their study of computational and systems biology.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 4d56c5fd-ee8c-6f20-503a-a8eef0d89847
+video_metadata:
+  youtube_id: null
 ---
 
 Computational Biology Tools and Resources
@@ -103,10 +110,10 @@ Guex, N., and M. C. Peitsch. "[SWISS-MODEL and the Swiss-PdbViewer: An Environme
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[DIP](http://dip.doe-mbi.ucla.edu/dip/Main.cgi)TM
+[DIP](http://dip.doe-mbi.ucla.edu/dip/Main.cgi){{< sup "TM" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-DIPTM stands for Database of Interacting Proteins. The DIPTM database catalogs experimentally determined interactions between proteins. It combines information from a variety of sources to create a single, consistent set of protein-protein interactions.
+DIP{{< sup "TM" >}} stands for Database of Interacting Proteins. The DIP{{< sup "TM" >}} database catalogs experimentally determined interactions between proteins. It combines information from a variety of sources to create a single, consistent set of protein-protein interactions.
 {{< tdclose >}}
 {{< tdopen >}}
 Salwinski L., C. S. Miller, et al. "[The Database of Interacting Proteins: 2004 Update](http://dx.doi.org/10.1093/nar/gkh086)." _Nucleic Acids Research_ 32, no. 1 (2004): D449–51.

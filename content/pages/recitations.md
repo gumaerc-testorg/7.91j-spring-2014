@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This section contains the slides used during optional recitation sections
+  for the course.
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: a8ee1ddc-6c16-9815-a0ec-c3e3d1235220
+video_metadata:
+  youtube_id: null
 ---
 
 7.36/7.91/20.390/20.490/6.802/HST.506 Recitation Slides
@@ -27,7 +34,7 @@ TOPICS
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-[Review of topics covered in Lectures 2 and 3 (PDF)]({{< baseurl >}}/resources/mit7_91js14_rec_2-12-14)
+{{% resource_link 4a3c699e-9835-f268-0547-ecdb4ae07f7b "Review of topics covered in Lectures 2 and 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +43,7 @@ R1
 R2
 {{< tdclose >}}
 {{< tdopen >}}
-[Review of topics covered in Lecture 4 (PDF)]({{< baseurl >}}/resources/mit7_91js14_rec_2-19-14)
+{{% resource_link 6410fbdf-77bd-853b-479d-afad29f1bbd4 "Review of topics covered in Lecture 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +67,7 @@ The slide deck is not available for this guest lecture.
 R4
 {{< tdclose >}}
 {{< tdopen >}}
-[Review of topics covered in Lectures 5 and 6 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit7_91js14_rec_2-26-14)
+{{% resource_link 01c38491-ed57-27f8-c39c-332d8b064a17 "Review of topics covered in Lectures 5 and 6 (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +76,7 @@ R4
 R5
 {{< tdclose >}}
 {{< tdopen >}}
-[Review of topics covered in Lectures 7 and 8 (PDF - 2.1MB)]({{< baseurl >}}/resources/mit7_91js14_rec_3-5-14)
+{{% resource_link 90eef062-ff18-671f-7be4-d05011f50efe "Review of topics covered in Lectures 7 and 8 (PDF - 2.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +85,7 @@ R5
 R6
 {{< tdclose >}}
 {{< tdopen >}}
-[Review of topics covered in Lecture 9 and 10 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit7_91js14_rec_3-12-14)
+{{% resource_link 7b857bab-e301-a2d5-6cad-7469f8b4fe57 "Review of topics covered in Lecture 9 and 10 (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +94,7 @@ R6
 R7
 {{< tdclose >}}
 {{< tdopen >}}
-[Review of topics covered in Lecture 10 (PDF - 3.9MB)]({{< baseurl >}}/resources/mit7_91js14_rec_3-19-14)
+{{% resource_link 06906095-5ff0-54ec-cbbc-5575aff65239 "Review of topics covered in Lecture 10 (PDF - 3.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +103,7 @@ R7
 R8
 {{< tdclose >}}
 {{< tdopen >}}
-[Review of topics covered in Lectures 12 and 13 (PDF - 4.2MB)]({{< baseurl >}}/resources/mit7_91js14_rec_4-2-14)
+{{% resource_link 18fa6a2c-3002-6601-7025-3d18eb986959 "Review of topics covered in Lectures 12 and 13 (PDF - 4.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +112,7 @@ R8
 R9
 {{< tdclose >}}
 {{< tdopen >}}
-[Review of topics covered in Lectures 14 and 15 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit7_91js14_rec_4-9-14)
+{{% resource_link 2bced96d-7e1b-2b0f-221a-aef769eab28a "Review of topics covered in Lectures 14 and 15 (PDF - 2.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +121,7 @@ R9
 R10
 {{< tdclose >}}
 {{< tdopen >}}
-[Review of topics covered in Lectures 15 and 16 (PDF - 2.1MB)]({{< baseurl >}}/resources/mit7_91js14_rec_4-16-14)
+{{% resource_link 7a5082bb-4e91-2be6-02d2-508a6065d327 "Review of topics covered in Lectures 15 and 16 (PDF - 2.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +130,7 @@ R10
 R11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Review of topics covered in Lecture 18 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit7_91js14_rec_4-23-14)
+{{% resource_link c25d17e9-8774-ea0b-c6c0-f68ede5dc336 "Review of topics covered in Lecture 18 (PDF - 1.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +139,7 @@ R11
 R12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Review of topics covered in Lectures 19 and 20 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit7_91js14_rec_4-30-14)
+{{% resource_link eb15b2fc-04f1-d5b3-0b46-656186c6067e "Review of topics covered in Lectures 19 and 20 (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +169,7 @@ TOPICS
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-[Statistics; Significance Testing; Bonferroni Correction (PDF)]({{< baseurl >}}/resources/mit7_91js14_rec_2-11-14)
+{{% resource_link 7641c042-f341-ec65-521f-6d5f880dbe05 "Statistics; Significance Testing; Bonferroni Correction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +178,7 @@ R1
 R2
 {{< tdclose >}}
 {{< tdopen >}}
-[Clustering, Model Selection, and BIC scores (PDF - 2.2MB)]({{< baseurl >}}/resources/mit7_91js14_rec_2-14-14)
+{{% resource_link b4f61ccd-e732-7f25-d974-fa326ab9cb22 "Clustering, Model Selection, and BIC scores (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +187,7 @@ R2
 R5
 {{< tdclose >}}
 {{< tdopen >}}
-[Gene Expression Program Discovery Using Topic Models (PDF)]({{< baseurl >}}/resources/mit7_91js14_rec_3-7-14)
+{{% resource_link 8faec8a7-0911-dd26-5fed-6ada73d14b35 "Gene Expression Program Discovery Using Topic Models (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

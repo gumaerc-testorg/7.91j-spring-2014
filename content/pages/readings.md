@@ -1,13 +1,20 @@
 ---
 content_type: page
+description: This section provides the citations and links to the readings assigned
+  for each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 1f3d1984-e0db-6e25-65c7-313934369c19
+video_metadata:
+  youtube_id: null
 ---
 
 This textbook is recommended for the course:  
 Zvelebil, Marketa J., and Jeremy O. Baum. _Understanding Bioinformatics_. Garland Science, 2007. ISBN: 9780815340249. \[Preview with [Google books](http://books.google.com/books?id=dGayL_tdnBMC&printsec=frontcover)\]
 
-The instructors have also selected various texts as particularly useful in specific areas, if you are looking for more information. See the [textbook section on the syllabus]({{< baseurl >}}/pages/syllabus#textbook).
+The instructors have also selected various texts as particularly useful in specific areas, if you are looking for more information. See the {{% resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "textbook section on the syllabus" "#textbook" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -187,7 +194,7 @@ Wang, Zhong, Mark Gerstein, et al. "[RNA–Seq: a Revolutionary Tool for Transcr
 
 Shalek, Alex K., Rahul Satija, et al. "[Single–cell Transcriptomics Reveals Bimodality in Expression and Splicing in Immune Cells](http://dx.doi.org/10.1038/nature12172)." _Nature_ 498 (2013): 236–40.
 
-Smith, Lindsay I. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Tutorial on Principal Components Analysis." (PDF)](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) February 26, 2002.
+Smith, Lindsay I. ["A Tutorial on Principal Components Analysis." (PDF)](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) February 26, 2002.
 
 
 {{< tdclose >}}
