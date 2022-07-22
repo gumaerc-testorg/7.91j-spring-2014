@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture by Prof. Christopher Burge covers modeling and discovery of sequence motifs. He gives the example of the Gibbs sampling algorithm. He covers information content of a motif, and he ends with parameter estimation for motif models.
 
 **Instructor:** Prof. Christopher Burge
-
-
 

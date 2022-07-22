@@ -5,6 +5,7 @@ file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-201
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the information regarding genome assembly.
-

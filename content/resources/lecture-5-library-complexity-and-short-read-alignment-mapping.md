@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Prof. Gifford talks about library complexity as it relates to genome sequencing. He explains how to create a full-text minute-size (FM) index, which involves a Burrows-Wheeler transform (BWT). He ends with how to deal with the problem of mismatching.
 
 **Instructor:** Prof. David Gifford
-
-
 

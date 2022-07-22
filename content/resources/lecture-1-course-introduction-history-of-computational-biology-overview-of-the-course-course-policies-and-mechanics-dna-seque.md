@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, Professors Burge, Gifford, and Fraenkel give an historical overview of the field of computational and systems biology, as well as outline the material they plan to cover throughout the semester.
 
 **Instructor:** Christopher Burge, David Gifford and Ernest Fraenkel
-
-
 
