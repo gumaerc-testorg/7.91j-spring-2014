@@ -336,15 +336,15 @@ Yes
 ------------------------------------------------
 
 This textbook is recommended for the course:  
-Zvelebil, Marketa J., and Jeremy O. Baum. _Understanding Bioinformatics_. Garland Science, 2007. ISBN: 9780815340249. \[Preview with [Google books](http://books.google.com/books?id=dGayL_tdnBMC&printsec=frontcover)\]
+Zvelebil, Marketa J., and Jeremy O. Baum. _Understanding Bioinformatics_. Garland Science, 2007. ISBN: 9780815340249. \[Preview with {{% resource_link "43673f13-82de-48d9-b3e1-05369f6a32fe" "Google books" %}}\]
 
 The instructors have also selected the following texts as particularly useful in specific areas, if you are looking for more information:
 
 ### Background in Python Programming
 
-Ascher, David, and Mark Lutz. [_Learning Python_](http://www.safaribooksonline.com/library/view/learning-python-2nd/0596002815/). 2nd ed. O'Reilly Media, Inc., 2003. ISBN: 9780596002817. \[Preview with [Google Books](http://books.google.com/books?id=4pgQfXQvekcC&printsec=frontcover)\]
+Ascher, David, and Mark Lutz. {{% resource_link "3ef82336-7dba-40d6-b832-00a3f979ea41" "_Learning Python_" %}}. 2nd ed. O'Reilly Media, Inc., 2003. ISBN: 9780596002817. \[Preview with {{% resource_link "5a1f1d66-3b61-4254-9136-e999550229a8" "Google Books" %}}\]
 
-Martelli, Alex. _Python in a Nutshell_. O'Reilly Media. 2006. ISBN: 9780596100469. \[Preview with [Google Books](http://books.google.com/books?id=JnR9hQA3SncC&printsec=frontcover)\]
+Martelli, Alex. _Python in a Nutshell_. O'Reilly Media. 2006. ISBN: 9780596100469. \[Preview with {{% resource_link "fdf30da8-5975-443e-83b8-c658a0285327" "Google Books" %}}\]
 
 ### Background in Molecular Biology, Cell Biology, and Biochemistry
 
@@ -364,7 +364,7 @@ Leach, Andrew. _Molecular Modelling: Principles and Applications_. Prentice Hall
 
 *   An in-depth treatment of molecular mechanics and other modeling methods.
 
-Alon, Uri. An _Introduction to Systems Biology: Design Principles of Biological Circuits_. Chapman and Hall / CRC, 2013. ISBN: 9781439837177. \[Preview with [Google Books](http://books.google.com/books?id=tcxCkIxzCO4C&printsec=frontcover)\]
+Alon, Uri. An _Introduction to Systems Biology: Design Principles of Biological Circuits_. Chapman and Hall / CRC, 2013. ISBN: 9781439837177. \[Preview with {{% resource_link "96d2656f-9ac4-4155-bff4-e224045c19fc" "Google Books" %}}\]
 
 *   An introduction to topics related to biological networks from a physicist's perspective.
 
@@ -372,7 +372,7 @@ Durbin, Richard, Sean R. Eddy, et al. _Biological Sequence Analysis: Probabilist
 
 *   Contains more in-depth discussion of many of the algorithms and methods discussed in class.
 
-Glantz, Stanton. _Primer of Biostatistics_. McGraw-Hill Medical, 2011. ISBN: 9780071781503. \[Preview with [Google Books](http://books.google.com/books?id=5YWg4lmc3v8C&printsec=frontcover)\]
+Glantz, Stanton. _Primer of Biostatistics_. McGraw-Hill Medical, 2011. ISBN: 9780071781503. \[Preview with {{% resource_link "831789b7-c3b3-4d7e-849e-f1dfdbe2e83c" "Google Books" %}}\]
 
 *   Covers basic statistics with applications to biology and medicine.
 
