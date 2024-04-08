@@ -262,7 +262,7 @@ EF
 17
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link 0dde891c-be5a-fd71-3dd2-aad48633bf3c "Logic Modeling of Cell Signaling Networks (PDF - 3.1MB)" %}} Guest Lecture: [Doug Lauffenburger](http://web.mit.edu/dallab/index.html)
+{{% resource_link 0dde891c-be5a-fd71-3dd2-aad48633bf3c "Logic Modeling of Cell Signaling Networks (PDF - 3.1MB)" %}} Guest Lecture: {{% resource_link "1239388a-e13d-413d-8c29-f560bf9574bc" "Doug Lauffenburger" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 GL
@@ -318,7 +318,7 @@ DG
 {{< tdopen >}}
 
 
-Synthetic Biology: From Parts to Modules to Therapeutic Systems. Guest Lecture: [Ron Weiss](http://groups.csail.mit.edu/synbio/)
+Synthetic Biology: From Parts to Modules to Therapeutic Systems. Guest Lecture: {{% resource_link "45a730ac-d877-437b-8149-689153729fbe" "Ron Weiss" %}}
 
 Slides of this guest lecture are not available.
 
@@ -336,7 +336,7 @@ GL
 {{< tdopen >}}
 
 
-Causality, Natural Computing, and Engineering Genomes. Guest Lecture: [George Church](http://arep.med.harvard.edu/gmc/)
+Causality, Natural Computing, and Engineering Genomes. Guest Lecture: {{% resource_link "acd30588-de38-4b2a-b68f-baf94806a52c" "George Church" %}}
 
 Slides of this guest lecture are not available.
 
