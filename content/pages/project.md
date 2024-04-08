@@ -35,11 +35,11 @@ MIT students taking the course should email your background and interests to cou
 
 Submit a list of your team members, a title, and a one paragraph summary of the research problem you plan to investigate. Groups can range in size from one student to five students. We suggest that you choose people to work with who have skills complementary to yours.
 
-For a one-paragraph summary of your project, you might look at [these sample applications](http://www.niaid.nih.gov/researchfunding/grant/pages/appsamples.aspx), especially the first paragraph of specific aims pages. We encourage you to choose an area that is relevant to your current or planned research. If you do not have data available to use for this project, a suitable publicly available dataset may be found. Existing implementations of computational methods or custom programs may be used.
+For a one-paragraph summary of your project, you might look at {{% resource_link "b8d44ed1-fef1-483c-ad40-7f95b5c3bb2d" "these sample applications" %}}, especially the first paragraph of specific aims pages. We encourage you to choose an area that is relevant to your current or planned research. If you do not have data available to use for this project, a suitable publicly available dataset may be found. Existing implementations of computational methods or custom programs may be used.
 
 ### {{< anchor "Specific_Aims" >}}{{< /anchor >}}Specific Aims
 
-Each team submits a one-page set of [NIH grant](http://grants.nih.gov/grants/oer.htm)\-style specific aims that describe your project. Your aims should correspond with goals you can reasonably achieve during the term. Your aims will be evaluated and returned with comments to give you initial feedback on your formulation of your problem area.
+Each team submits a one-page set of {{% resource_link "d3c2dd82-705e-43a8-b0a3-88d0e72d22eb" "NIH grant" %}}\-style specific aims that describe your project. Your aims should correspond with goals you can reasonably achieve during the term. Your aims will be evaluated and returned with comments to give you initial feedback on your formulation of your problem area.
 
 ### {{< anchor "Research_Strategy" >}}{{< /anchor >}}Research Strategy
 

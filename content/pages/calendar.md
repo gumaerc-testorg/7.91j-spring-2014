@@ -168,7 +168,7 @@ Problem Set 1 Due
 R3
 {{< tdclose >}}
 {{< tdopen >}}
-Burrows–Wheeler Transform (BWT) and Alignments. Guest Lecture: Heng Li ([Broad Institute](http://www.broadinstitute.org/))
+Burrows–Wheeler Transform (BWT) and Alignments. Guest Lecture: Heng Li ({{% resource_link "084bcb8b-8731-4521-a2f2-ad191070af88" "Broad Institute" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 GL
@@ -465,7 +465,7 @@ TA
 L17
 {{< tdclose >}}
 {{< tdopen >}}
-Logic Modeling of Cell Signaling Networks. Guest Lecture: [Doug Lauffenburger](http://web.mit.edu/dallab/index.html)
+Logic Modeling of Cell Signaling Networks. Guest Lecture: {{% resource_link "1239388a-e13d-413d-8c29-f560bf9574bc" "Doug Lauffenburger" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 GL
@@ -561,7 +561,7 @@ DG
 L21
 {{< tdclose >}}
 {{< tdopen >}}
-Synthetic Biology: From Parts to Modules to Therapeutic Systems. Guest Lecture: [Ron Weiss](http://groups.csail.mit.edu/synbio/)
+Synthetic Biology: From Parts to Modules to Therapeutic Systems. Guest Lecture: {{% resource_link "45a730ac-d877-437b-8149-689153729fbe" "Ron Weiss" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 GL
@@ -600,7 +600,7 @@ Exam 2
 L22
 {{< tdclose >}}
 {{< tdopen >}}
-Causality, Natural Computing, and Engineering Genomes. Guest Lecture: [George Church](http://arep.med.harvard.edu/gmc/)
+Causality, Natural Computing, and Engineering Genomes. Guest Lecture: {{% resource_link "acd30588-de38-4b2a-b68f-baf94806a52c" "George Church" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 GL
