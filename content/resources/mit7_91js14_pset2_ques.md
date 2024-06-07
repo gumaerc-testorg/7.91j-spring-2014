@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding questions- BWT, library
   complexity, RNA-seq, genome assembly, motifs, multiple hypothesis testing.
 file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/429b782e48f79a33a6ce938e18f40d49_MIT7_91JS14_pset2_ques.pdf
+file_size: 339094
 file_type: application/pdf
 learning_resource_types:
 - Assignments

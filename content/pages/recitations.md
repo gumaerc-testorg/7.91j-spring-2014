@@ -54,7 +54,7 @@ R3
 {{< tdopen >}}
 
 
-Burrows–Wheeler Transform (BWT) and Alignments. Guest Lecture: Heng Li ({{% resource_link "084bcb8b-8731-4521-a2f2-ad191070af88" "Broad Institute" %}})
+Burrows–Wheeler Transform (BWT) and Alignments. Guest Lecture: Heng Li ([Broad Institute](http://www.broadinstitute.org/))
 
 The slide deck is not available for this guest lecture.
 

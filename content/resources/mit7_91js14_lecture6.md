@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding genome assembly.
 file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/e885f0eb376ea6c2045eb9d8847f106f_MIT7_91JS14_Lecture6.pdf
+file_size: 971758
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
