@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/95130fdb68d32fcd670bd20d80d07bf0_7-91_classroom-1.jpg
+file_size: 53547
 file_type: image/jpeg
 image_metadata:
   caption: ''

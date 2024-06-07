@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding predicting protein structure.
 file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/30cc334357c364c0c51c5d261c409bbf_MIT7_91JS14_Lecture13.pdf
+file_size: 3570213
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

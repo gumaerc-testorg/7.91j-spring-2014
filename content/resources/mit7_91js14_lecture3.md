@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding global alignment of protein
   sequences.
 file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/da347a0831fd95f9f1dada52f3c4a5a1_MIT7_91JS14_Lecture3.pdf
+file_size: 1007384
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
