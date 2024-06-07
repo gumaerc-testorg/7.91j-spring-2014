@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/616835ae3c1b035255bde7894c5289b8_lJzybEXmIj0.pdf
+file_size: 109669
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

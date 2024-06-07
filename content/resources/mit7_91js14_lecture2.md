@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding local alignment (BLAST)
   and statistics.
 file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/82572f8d7508c4b86aa03c31879ed144_MIT7_91JS14_Lecture2.pdf
+file_size: 2055731
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
