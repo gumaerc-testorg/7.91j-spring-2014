@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding comparative genomics
-file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/f00a4def2b9e091014825fa18eff4b0f_MIT7_91JS14_Lecture4.pdf
+file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/f00a4def2b9e091014825fa18eff4b0f_MIT7_91JS14_Lecture4.pdf
 file_size: 3050435
 file_type: application/pdf
 learning_resource_types:

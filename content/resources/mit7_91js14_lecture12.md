@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding introduction to protein
   structure; structure comparison and classification.
-file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/e41589e4df27f5974d7631183cf3962f_MIT7_91JS14_Lecture12.pdf
+file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/e41589e4df27f5974d7631183cf3962f_MIT7_91JS14_Lecture12.pdf
 file_size: 3244866
 file_type: application/pdf
 learning_resource_types:

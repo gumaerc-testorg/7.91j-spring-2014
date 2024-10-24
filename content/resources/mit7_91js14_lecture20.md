@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding human genetics, SNPs, and
   genome wide associate studies.
-file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/92a4c627f490ff5201a9900aa4e55dec_MIT7_91JS14_Lecture20.pdf
+file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/92a4c627f490ff5201a9900aa4e55dec_MIT7_91JS14_Lecture20.pdf
 file_size: 3510131
 file_type: application/pdf
 learning_resource_types:
