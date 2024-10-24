@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding RNA-sequence analysis:
   expression, isoforms.'
-file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/45a80bf19f88d0cabfb091b4edbc0f36_MIT7_91JS14_Lecture8.pdf
+file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/45a80bf19f88d0cabfb091b4edbc0f36_MIT7_91JS14_Lecture8.pdf
 file_size: 3016748
 file_type: application/pdf
 learning_resource_types:
