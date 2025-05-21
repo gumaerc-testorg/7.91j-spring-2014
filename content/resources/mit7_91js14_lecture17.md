@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding logic modeling of cell signaling
   networks.
-file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/0dde891cbe5afd713dd2aad48633bf3c_MIT7_91JS14_Lecture17.pdf
+file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/0dde891cbe5afd713dd2aad48633bf3c_MIT7_91JS14_Lecture17.pdf
 file_size: 3276454
 file_type: application/pdf
 learning_resource_types:

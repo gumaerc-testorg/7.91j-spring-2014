@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding chIP-seq analysis; DNA-protein
   interactions. '
-file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/53a07f80af4d4304844344039d97775e_MIT7_91JS14_Lecture7.pdf
+file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/53a07f80af4d4304844344039d97775e_MIT7_91JS14_Lecture7.pdf
 file_size: 2106758
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding protien interaction networks.
-file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/5ea46dd78900dca666f20790f31d85a5_MIT7_91JS14_Lecture16.pdf
+file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/5ea46dd78900dca666f20790f31d85a5_MIT7_91JS14_Lecture16.pdf
 file_size: 7920683
 file_type: application/pdf
 learning_resource_types:
