@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding questions- bayesian networks,
   refining protein structures in pyRosetta, mutual information of protein residues.
-file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/6d52a17800a4be9e2ae605c1c83d65ba_MIT7_91JS14_pset4_ques.pdf
+file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/6d52a17800a4be9e2ae605c1c83d65ba_MIT7_91JS14_pset4_ques.pdf
 file_size: 237326
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related to problem set 3.
-file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/5b630b6de2015aa2770c8f143c82cc6b_Problem_set_3.zip
+file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/5b630b6de2015aa2770c8f143c82cc6b_Problem_set_3.zip
 file_size: 17076
 file_type: application/zip
 learning_resource_types:

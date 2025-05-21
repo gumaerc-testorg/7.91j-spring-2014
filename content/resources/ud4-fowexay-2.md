@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/f9e483221ebf581698fecbea4dd97105_uD4-fOWeXAY.vtt
+file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/f9e483221ebf581698fecbea4dd97105_uD4-fOWeXAY.vtt
 file_size: 75098
 file_type: application/x-subrip
 learning_resource_types: []

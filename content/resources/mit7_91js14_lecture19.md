@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding discovering quantitative
   trait loci (QTLs).
-file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/1c9822b1ee7f076711434cb3212e7f6a_MIT7_91JS14_Lecture19.pdf
+file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/1c9822b1ee7f076711434cb3212e7f6a_MIT7_91JS14_Lecture19.pdf
 file_size: 2896925
 file_type: application/pdf
 learning_resource_types:
