@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding markov and hidden markov
   models of genomic and protein features.
-file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/613e7bd5b9e83a805d32cde2ce585e76_MIT7_91JS14_Lecture10.pdf
+file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/613e7bd5b9e83a805d32cde2ce585e76_MIT7_91JS14_Lecture10.pdf
 file_size: 773384
 file_type: application/pdf
 learning_resource_types:

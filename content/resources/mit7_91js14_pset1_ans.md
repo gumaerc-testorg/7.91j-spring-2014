@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding Solutions-sequence search,
   global alignment, BLAST statistics.
-file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/84b556e2f77a9f5e8537dda71d0f3e3e_MIT7_91JS14_Pset1_ans.pdf
+file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/84b556e2f77a9f5e8537dda71d0f3e3e_MIT7_91JS14_Pset1_ans.pdf
 file_size: 721857
 file_type: application/pdf
 learning_resource_types:

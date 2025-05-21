@@ -2,7 +2,7 @@
 content_type: resource
 description: "This file contains the information regarding  RNA secondary structure\
   \ \u2013 biological functions and prediction."
-file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/0ede7c2cd8c7a11ec91bd37a1d4937d5_MIT7_91JS14_Lecture11.pdf
+file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/0ede7c2cd8c7a11ec91bd37a1d4937d5_MIT7_91JS14_Lecture11.pdf
 file_size: 1695327
 file_type: application/pdf
 learning_resource_types:
