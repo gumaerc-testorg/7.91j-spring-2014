@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding analysis of chromatin structure.
-file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/c735f230a3e4b8b09d602422abf9664d_MIT7_91JS14_Lecture18.pdf
+file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/c735f230a3e4b8b09d602422abf9664d_MIT7_91JS14_Lecture18.pdf
 file_size: 3936775
 file_type: application/pdf
 learning_resource_types:
