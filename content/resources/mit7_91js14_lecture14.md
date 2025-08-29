@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding predicting protein interactions.
-file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/d5493cb7b21656b151d3e4bd67fc1473_MIT7_91JS14_Lecture14.pdf
+file: /ol-ocw-studio-app/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/d5493cb7b21656b151d3e4bd67fc1473_MIT7_91JS14_Lecture14.pdf
 file_size: 4935046
 file_type: application/pdf
 learning_resource_types:

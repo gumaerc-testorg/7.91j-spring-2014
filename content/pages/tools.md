@@ -118,7 +118,7 @@ The Protein Data Bank (PDB) is the single worldwide repository for the processin
 {{< tdclose >}}{{< tdopen >}}
 Berman, H. M., J. Westbrook, et al. "[The Protein Data Bank](http://dx.doi.org/10.1093/nar/28.1.235)." *Nucleic Acids Research* 28, no. 1 (2000): 235–42.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[PHYLIP](http://evolution.genetics.washington.edu/phylip.html)
+[PHYLIP](https://phylipweb.github.io/phylip/)
 {{< tdclose >}}{{< tdopen >}}
 PHYLIP (the PHYLogeny Inference Package) is a package of programs for inferring phylogenies (evolutionary trees). It is available free over the Internet, and written to work on as many different kinds of computer systems as possible.
 {{< tdclose >}}{{< tdopen >}}
@@ -154,7 +154,7 @@ Yaffe, M. B., G. G. Leparc, et al. "[A Motif-based Profile Scanning Approach for
 Obenauer, J. C., L. C. Cantley, et al. "[Scansite 2.0: Proteome-wide Prediction of Cell Signaling Interactions using Short Sequence Motifs](http://dx.doi.org/10.1093/nar/gkg584)." *Nucleic Acids Research* 31, no. 13 (2003): 3635–41.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[SCOP](http://scop.mrc-lmb.cam.ac.uk/scop/)
+[SCOP](https://www.ebi.ac.uk/pdbe/scop/)
 {{< tdclose >}}{{< tdopen >}}
 Nearly all proteins have structural similarities with other proteins and, in some of these cases, share a common evolutionary origin. The Structural Classification Of Proteins (SCOP) database, created by manual inspection and abetted by a battery of automated methods, aims to provide a detailed and comprehensive description of the structural and evolutionary relationships between all proteins whose structure is known. As such, it provides a broad survey of all known protein folds, detailed information about the close relatives of any particular protein, and a framework for future research and classification.
 {{< tdclose >}}{{< tdopen >}}
